@@ -1,2 +1,3 @@
 Hello world!
 This is a wonderful world!
+Git is a free software and very useful!
